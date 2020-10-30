@@ -14,26 +14,26 @@ var cart = {
     123: {
       name : "Carteira grande marrom",
       desc : "Sandália prateada",
-      img : "../www/img/prod01big.png",
+      img : "../img/prod01big.png",
       price : 257.87
     },
    
     124: {
       name : "Rasteira Tira Dedo",
       desc : "Sandália rasteira de tiras",
-      img : "../www/img/prod02big.png",
+      img : "../img/prod02big.png",
       price : 124.70
     },
     125: {
       name : "Bolsa Tressê Rolotê",
       desc : "Bolsa em couro natural com detalhe de pespontos de couro na tampa e alça de tressê rolotê",
-      img : "../www/img/prod03big.png",
+      img : "../img/prod03big.png",
       price : 675.90
     },
     126: {
       name : "Sandália prateada",
       desc : "Sandália prateada",
-      img : "../www/img/prod04big.png",
+      img : "../img/prod04big.png",
       price : 257.87
     }
   },
